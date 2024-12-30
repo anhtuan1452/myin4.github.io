@@ -79,7 +79,7 @@ nav a:hover, nav a.active{
     }
 }
 .hh{
-    width: 30vw;
+    width: 25vw;
     border-radius: 50% ;
     transition: 0.3s ease;
 }
@@ -93,7 +93,7 @@ section{
     gap: 5rem;
 }
 .home-img .hh:hover{
-    width: 35vw;
+    width: 30vw;
     font-size: 1.8rem;
     font-weight: 800;
 }
